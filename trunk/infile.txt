@@ -1,0 +1,3 @@
+{"class":"potato","subject":"season","count":"15","fields":["uuid","brand","label","season","weight"]}
+{"class":"tomato","subject":"sample","count":"5","fields":["uuid","brand","label","season","weight","variety","seeding","harvest"]}
+{"class":"potato","subject":"sample","count":"5","fields":["uuid","brand","label","season","weight","variety","seeding","harvest"]}
